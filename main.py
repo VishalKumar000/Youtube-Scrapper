@@ -17,8 +17,8 @@ yt-dlp --write-thumbnail -o "/home/bakru_k78/Videos/%(title)s - @%(uploader)s/%(
 # https://www.youtube.com/@WtfBroClips000/shorts 20240519
 # https://www.youtube.com/@Ohio.Cat.Bombastic/shorts 20240519
 # https://www.youtube.com/@Sakura-ShinHye/shorts 20240519
-# https://www.youtube.com/@Comment_Reading_Department./shorts 20240519
 # https://www.youtube.com/@amemus_/shorts 20240519
 # https://www.youtube.com/@akselsili/shorts 20240519
-# https://www.youtube.com/@Bebahan/shorts 20240519
-# https://www.youtube.com/@PandaShorts/shorts 20240519
+https://www.youtube.com/@Bebahan/shorts 20240519
+https://www.youtube.com/@PandaShorts/shorts 20240519
+https://www.youtube.com/@Comment_Reading_Department./shorts 20240519
