@@ -22,3 +22,6 @@ yt-dlp --write-thumbnail -o "/home/bakru_k78/Videos/%(title)s - @%(uploader)s/%(
 # https://www.youtube.com/@PandaShorts/shorts 20240519
 # https://www.youtube.com/@Bebahan/shorts 20240519
 # https://www.youtube.com/@Comment_Reading_Department./shorts 20240519
+
+# https://www.youtube.com/@Prvnci/shorts 20240630
+# https://www.youtube.com/@YourHistoryTeacher_/shorts 20240630
